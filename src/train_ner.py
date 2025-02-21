@@ -1,6 +1,7 @@
 import spacy
 from spacy.training import Example
 import json
+import os
 
 # Load mô hình trắng (hoặc vi_core_news_lg nếu cần)
 nlp = spacy.blank("vi")
@@ -19,7 +20,8 @@ with open("../data/train_data.json", "r", encoding="utf-8") as f:
 examples = []
 for data in TRAIN_DATA:
     doc = nlp.make_doc(data["text"])
-    examples.append(Example.from_dict(doc, {"entities": data["entities"]}))
+    entities = [(ent["start"], ent["end"], ent["label"]) for ent in data["entities"]]
+    examples.append(Example.from_dict(doc, {"entities": entities}))
 
 # Huấn luyện mô hình
 nlp.begin_training()
@@ -28,6 +30,11 @@ for epoch in range(20):
     nlp.update(examples, losses=losses)
     print(f"Epoch {epoch+1}, Loss: {losses}")
 
+# Tạo thư mục nếu chưa tồn tại
+output_dir = "../models/model_ner"
+if not os.path.exists(output_dir):
+    os.makedirs(output_dir)
+
 # Lưu mô hình đã huấn luyện
-nlp.to_disk("../models/model_ner")
+nlp.to_disk(output_dir)
 print("✅ Mô hình đã lưu vào thư mục 'models/model_ner'")
