@@ -1,6 +1,6 @@
 import re
 
-file_path = r'c:\Python\data\input.txt'  
+file_path = r'c:\Train-AI\data\input.txt'  
 
 def read_chat_file(file_path):
     """ Đọc file chat và tách các cuộc hội thoại """
