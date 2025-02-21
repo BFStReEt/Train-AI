@@ -1,0 +1,650 @@
+======
+[5695447550386879666_[KH] Mr.Hùng  HQC_TDU_SM_THINHPHAT]
+[2025-02-19 15:30:31:186] [KH] Mr.Hùng  HQC_TDU_SM_THINHPHAT: Ngọc ơi
+[2025-02-19 15:30:40:439] [KH] Mr.Hùng  HQC_TDU_SM_THINHPHAT: Em check hỏi dùm anh
+[2025-02-19 15:30:41:454] [KH] Mr.Hùng  HQC_TDU_SM_THINHPHAT: Microsoft 365 Copilot
+[2025-02-19 15:30:49:377] [KH] Mr.Hùng  HQC_TDU_SM_THINHPHAT: Lic này có bán không em?
+[2025-02-19 15:31:01:168] [KH] Mr.Hùng  HQC_TDU_SM_THINHPHAT: Bên office 365 không có tích hợp sẵn phải mua hả em?
+[2025-02-19 15:33:00:851] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: đợi em xíu nhen
+[2025-02-19 15:33:04:065] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: em check npp
+[2025-02-19 15:36:50:687] [KH] Mr.Hùng  HQC_TDU_SM_THINHPHAT: A cám.ơn em
+[2025-02-19 15:37:14:086] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: DẠ ANH
+[2025-02-19 15:43:03:578] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: Microsoft 365 Copilot	: 8.752.000vnđ/1b giá hôm nay
+[2025-02-19 15:43:19:816] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: em gưuỉ hàng ko sẵn kho nên em không đảm bảo về giá được á
+[2025-02-19 15:43:28:926] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: anh thông cảm hộ em nhen
+[2025-02-19 15:44:29:033] [KH] Mr.Hùng  HQC_TDU_SM_THINHPHAT: Uhm em
+[2025-02-19 15:44:33:543] [KH] Mr.Hùng  HQC_TDU_SM_THINHPHAT: Để anh báo khách nha
+[2025-02-19 15:44:42:224] [KH] Mr.Hùng  HQC_TDU_SM_THINHPHAT: này mua theo năm
+[2025-02-19 15:44:46:268] [KH] Mr.Hùng  HQC_TDU_SM_THINHPHAT: hay vĩnh viễn vậy
+[2025-02-19 15:44:51:020] [KH] Mr.Hùng  HQC_TDU_SM_THINHPHAT: em biết không
+[2025-02-19 15:45:13:134] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: 365 là 1 năm á anh
+[2025-02-19 15:45:18:054] [KH] Mr.Hùng  HQC_TDU_SM_THINHPHAT: này office 365 không có sẵn mà phải mua lic phải kg em?
+[2025-02-19 15:48:55:023] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: cần bản pro thì mua bản đó á anh
+[2025-02-19 15:50:40:280] [KH] Mr.Hùng  HQC_TDU_SM_THINHPHAT: A chưa hiểu
+[2025-02-19 15:50:46:482] [KH] Mr.Hùng  HQC_TDU_SM_THINHPHAT: Bản pro là sao em
+[2025-02-19 15:51:41:033] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: í của anh có phải là office 365 không có copilot nên phải mua thêm gói 365 copilot ko
+[2025-02-19 15:51:57:096] [KH] Mr.Hùng  HQC_TDU_SM_THINHPHAT: Đúng rồi
+[2025-02-19 15:52:03:189] [KH] Mr.Hùng  HQC_TDU_SM_THINHPHAT: Ý a hỏi
+[2025-02-19 15:52:15:591] [KH] Mr.Hùng  HQC_TDU_SM_THINHPHAT: Office 365 là kg tích hợp copilot
+[2025-02-19 15:52:24:740] [KH] Mr.Hùng  HQC_TDU_SM_THINHPHAT: Bắt buộc phải mua phải kg e!
+[2025-02-19 15:56:27:967] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: anh đang dùng 365 nào í
+[2025-02-19 16:00:20:597] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: tại vì nhiều office 365 nên em sẽ khác nhau
+[2025-02-19 16:00:30:358] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: anh gửi đúng phàn mềm anh cần hỏi í
+[2025-02-19 16:00:39:900] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: em sẽ dễ báo chính xác cho anh hơn
+======
+[2713064978412534302_[KH] MTR_DNO_CH_NAMHA_Hạnh Nh_0967094878]
+[2025-02-19 15:22:35:363] [KH] MTR_DNO_CH_NAMHA_Hạnh Nh_0967094878: con này có mã nào rẻ hơn ko
+[2025-02-19 15:23:14:487] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: cấu hình như này luôn hả chị
+[2025-02-19 15:23:19:006] [KH] MTR_DNO_CH_NAMHA_Hạnh Nh_0967094878: bên uhm
+[2025-02-19 15:24:27:248] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: Máy tính để bàn HP Pro Tower 280 G9 PCI, Core i3-12100,8GB RAM,256GB SSD,Intel Graphics,Wlan ac+BT,Keyboard,Mouse,Win 11 Home 64,01Year_9U3N7AT	 8,950,000
+[2025-02-19 15:25:24:276] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: Máy tính để bàn HP Pro Tower 280 G9 PCI, Core i3-12100,8GB RAM, 512GB SSD, Intel Graphics,Wlan ac+BT,Keyboard,Mouse,Win 11 Home 64,01Year_AM3N8AT	 10,300,000
+[2025-02-19 15:26:03:425] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: {"thumb":"","description":"Cuộc gọi","action":"recommened.calltime","childnumber":0,"href":"","title":"sendBubbleMessage","params":"{\"duration\":165,\"isCaller\":1,\"isEnableCallback\":1,\"calltype\":0}"}
+[2025-02-19 15:26:53:569] [KH] MTR_DNO_CH_NAMHA_Hạnh Nh_0967094878: Máy tính để bàn HP Pro Tower 280 G9 PCI, Core i3-12100,8GB RAM, 512GB SSD, Intel Graphics,Wlan ac+BT,Keyboard,Mouse,Win 11 Home 64
+[2025-02-19 15:38:40:916] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: Chị Hạnh ơi
+[2025-02-19 15:38:42:244] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: s ùi
+[2025-02-19 15:39:12:920] [KH] MTR_DNO_CH_NAMHA_Hạnh Nh_0967094878: có khi c lấy con này
+[2025-02-19 15:41:11:681] [KH] MTR_DNO_CH_NAMHA_Hạnh Nh_0967094878: đợi xíu a kia về c hỏi lại a có báo cấu hình chi tiết ko
+[2025-02-19 15:42:03:913] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: con nỳ giá rẻ hơn thiệt
+[2025-02-19 15:42:13:444] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: bữa giá 9tr300 lận á chị
+[2025-02-19 15:42:21:788] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: nay giảm còn 9tr
+[2025-02-19 15:42:32:744] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: mà chỗ chị hay nhập em báo 8950k á chứ
+[2025-02-19 15:42:38:381] [KH] MTR_DNO_CH_NAMHA_Hạnh Nh_0967094878: bên e giáo hàng mấy giờ ak
+[2025-02-19 15:42:50:217] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: chị oke em xuất liền
+[2025-02-19 15:42:56:538] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: gửi xe cho chị luôn
+[2025-02-19 15:43:10:022] [KH] MTR_DNO_CH_NAMHA_Hạnh Nh_0967094878: đợi xí
+[2025-02-19 15:44:01:972] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: dạ chị
+======
+[114437088179711534_[KH] 15. A.Khánh PC_NK]
+[2025-02-19 10:24:58:855] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: {"thumb":"https://f25-zpc.zdn.vn/jpg/2034509727673409322/994c60f7d2c66c9835d7.jpg","description":"","action":"","childnumber":0,"href":"https://f25-zpc.zdn.vn/jpg/2034509727673409322/994c60f7d2c66c9835d7.jpg","title":"","params":"{\"rawUrl\":\"https:\\/\\/f25-zpc.zdn.vn\\/jpg\\/2034509727673409322\\/994c60f7d2c66c9835d7.jpg\",\"width\":811,\"convertible\":\"jxl\",\"hd\":\"https:\\/\\/f25-zpc.zdn.vn\\/jpg\\/2034509727673409322\\/994c60f7d2c66c9835d7.jpg\",\"hdSize\":45208,\"height\":393}","type":""}
+[2025-02-19 15:21:16:803] [KH] 15. A.Khánh PC_NK: {"thumb":"https://f27-zpc.zdn.vn/983608841967418512/2ac38907ad3b13654a2a.jpg","description":"Cách tạo tài khoản Microsoft mới để sử dụng dịch vụ Microsoft.","action":"recommened.link","childnumber":0,"href":"https://support.microsoft.com/vi-vn/account-billing/c%C3%A1ch-t%E1%BA%A1o-t%C3%A0i-kho%E1%BA%A3n-microsoft-m%E1%BB%9Bi-a84675c3-3e9e-17cf-2911-3d56b15c0aaf","title":"Để tạo tài khoản Microsoft, bạn có thể làm theo các bước sau:\n\nTruy cập vào trang web của Microsoft tại đây  https://support.microsoft.com/vi-vn/account-billing/c%C3%A1ch-t%E1%BA%A1o-t%C3%A0i-kho%E1%BA%A3n-microsoft-m%E1%BB%9Bi-a84675c3-3e9e-17cf-2911-3d56b15c0aaf.\n\nChọn vào biểu tượng hình avatar để vào trang đăng nhập tài khoản Microsoft.\n\nChọn \"Tạo một tài khoản\".\n\nĐiền địa chỉ email muốn tạo và chọn đuôi mail phù hợp.\n\nLàm theo các hướng dẫn để hoàn tất quá trình tạo tài khoản.\n\nNếu bạn gặp bất kỳ vấn đề nào, bạn có thể tham khảo thêm thông tin chi tiết tại đây.\n\nChúc bạn thành công! Nếu cần thêm hỗ trợ, đừng ngần ngại hỏi nhé.","params":"{\"streamUrl\":\"\",\"mediaTitle\":\"Cách tạo tài khoản Microsoft mới - Hỗ trợ của Microsoft\",\"stream_icon\":\"\",\"src\":\"support.microsoft.com\",\"artist\":\"\",\"type\":0}","type":""}
+[2025-02-19 15:21:38:031] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: {"catId":12003,"id":46973,"type":7}
+======
+[6396620826697983101_[KH] Mr.Chinh MDO_BDU_SM_VISTACO]
+[2025-02-19 13:42:55:382] [KH] Mr.Chinh MDO_BDU_SM_VISTACO: Project Pro 2024 All Lng Retail Online ESD
+[2025-02-19 13:43:14:132] [KH] Mr.Chinh MDO_BDU_SM_VISTACO: Giá này chưa tốt lắm
+[2025-02-19 13:44:56:703] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: này hàng ko stock kho nơi anh đợi em xíu nhé
+[2025-02-19 14:04:11:062] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: EP2-07000	Project Pro 2024 All Lng Retail Online ESD => 27.600.000vnđ/1b
+[2025-02-19 14:04:16:779] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: anh ơi hàng ngoài kho
+[2025-02-19 14:04:24:307] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: npp tăng giá nữa ùi hix
+[2025-02-19 14:04:37:084] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: giá tốt cân đuọc rr á anhh
+[2025-02-19 14:09:13:718] [KH] Mr.Chinh MDO_BDU_SM_VISTACO: {"thumb":"","description":"Cuộc gọi","action":"recommened.calltime","childnumber":0,"href":"","title":"sendBubbleMessage","params":"{\"duration\":96,\"isCaller\":0,\"isEnableCallback\":1,\"calltype\":0}"}
+[2025-02-19 14:10:39:364] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: Đại Lý cung cấp các thông tin EU khi đặt hàng ( đây là thông tin bắt buộc do Microsoft yêu cầu )
+[2025-02-19 14:10:39:364] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: Đại Lý cung cấp các thông tin EU khi đặt hàng ( đây là thông tin bắt buộc do Microsoft yêu cầu )
+1.Tên EU & MST:
+2.Địa chỉ:
+3.Người liên hệ:
+4.SĐT:
+5.Email:
+6.Domain (Domain dùng quản lý key có đuôi .onmicrosoft.com nếu chưa có thì tạo mới MS sẽ hỗ trợ)
+[2025-02-19 15:11:14:463] [KH] Mr.Chinh MDO_BDU_SM_VISTACO: {"thumb":"","description":"Cuộc gọi","action":"recommened.misscall","childnumber":0,"href":"","title":"sendBubbleMessage","params":"{\"duration\":0,\"reason\":0,\"isCaller\":0,\"isEnableCallback\":1,\"calltype\":0}"}
+[2025-02-19 15:12:20:516] [KH] Mr.Chinh MDO_BDU_SM_VISTACO: {"thumb":"","description":"Cuộc gọi","action":"recommened.misscall","childnumber":0,"href":"","title":"sendBubbleMessage","params":"{\"duration\":0,\"reason\":0,\"isCaller\":0,\"isEnableCallback\":1,\"calltype\":0}"}
+[2025-02-19 15:13:23:724] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: {"thumb":"","description":"Cuộc gọi","action":"recommened.calltime","childnumber":0,"href":"","title":"sendBubbleMessage","params":"{\"duration\":36,\"isCaller\":1,\"isEnableCallback\":1,\"calltype\":0}"}
+[2025-02-19 15:14:42:778] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: anh ơi quên thì tạo cái mới á anh
+[2025-02-19 15:14:49:637] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: sdt ko cần á anh
+[2025-02-19 15:17:02:035] [KH] Mr.Chinh MDO_BDU_SM_VISTACO: gửi anh link tạo tài khoản mới
+[2025-02-19 15:20:11:068] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: {"thumb":"https://f25-zpc.zdn.vn/5249327796354175379/61c39c29bd15034b5a04.jpg","description":"Tìm kiếm thông minh từ Bing giúp bạn dễ dàng tìm thấy những gì bạn đang tìm kiếm hơn và trao thưởng cho bạn.","action":"recommened.link","childnumber":0,"href":"https://www.bing.com/search?qs=SC&pq=t%E1%BA%A1o+taig+kho%E1%BA%A3n+mi&sk=CSYN1&sc=16-17&pglt=43&q=t%E1%BA%A1o+tai+kho%E1%BA%A3n+microsoft&cvid=d7af9ca8210d4f26892aa2fa4b0df87f&gs_lcrp=EgRlZGdlKgYIARAAGEAyBggAEEUYOTIGCAEQABhAMgYIAhAAGEAyBggDEAAYQDIGCAQQABhAMgYIBR","title":"https://www.bing.com/search?qs=SC&pq=t%E1%BA%A1o+taig+kho%E1%BA%A3n+mi&sk=CSYN1&sc=16-17&pglt=43&q=t%E1%BA%A1o+tai+kho%E1%BA%A3n+microsoft&cvid=d7af9ca8210d4f26892aa2fa4b0df87f&gs_lcrp=EgRlZGdlKgYIARAAGEAyBggAEEUYOTIGCAEQABhAMgYIAhAAGEAyBggDEAAYQDIGCAQQABhAMgYIBR","params":"{\"streamUrl\":\"\",\"mediaTitle\":\"tạo tai khoản microsoft - Tìm kiếm\",\"stream_icon\":\"\",\"src\":\"www.bing.com\",\"artist\":\"\",\"type\":0}","type":""}
+[2025-02-19 15:20:33:006] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: {"thumb":"https://f25-zpc.zdn.vn/5249327796354175379/61c39c29bd15034b5a04.jpg","description":"Tìm kiếm thông minh từ Bing giúp bạn dễ dàng tìm thấy những gì bạn đang tìm kiếm hơn và trao thưởng cho bạn.","action":"recommened.link","childnumber":0,"href":"https://www.bing.com/search?qs=SC&pq=t%E1%BA%A1o+taig+kho%E1%BA%A3n+mi&sk=CSYN1&sc=16-17&pglt=43&q=t%E1%BA%A1o+tai+kho%E1%BA%A3n+microsoft&cvid=d7af9ca8210d4f26892aa2fa4b0df87f&gs_lcrp=EgRlZGdlKgYIARAAGEAyBggAEEUYOTIGCAEQABhAMgYIAhAAGEAyBggDEAAYQDIGCAQQABhAMgYIBR","title":"https://www.bing.com/search?qs=SC&pq=t%E1%BA%A1o+taig+kho%E1%BA%A3n+mi&sk=CSYN1&sc=16-17&pglt=43&q=t%E1%BA%A1o+tai+kho%E1%BA%A3n+microsoft&cvid=d7af9ca8210d4f26892aa2fa4b0df87f&gs_lcrp=EgRlZGdlKgYIARAAGEAyBggAEEUYOTIGCAEQABhAMgYIAhAAGEAyBggDEAAYQDIGCAQQABhAMgYIBR","params":"{\"streamUrl\":\"\",\"mediaTitle\":\"tạo tai khoản microsoft - Tìm kiếm\",\"stream_icon\":\"\",\"src\":\"www.bing.com\",\"artist\":\"\",\"type\":0}","type":""}
+[2025-02-19 15:20:35:832] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: {"globalMsgId":6332327530906,"destId":6396620826697983101,"srcId":0,"deleteMsg":0,"cliMsgId":1739953210230}
+[2025-02-19 15:33:05:862] [KH] Mr.Chinh MDO_BDU_SM_VISTACO: {"thumb":"","description":"Cuộc gọi","action":"recommened.calltime","childnumber":0,"href":"","title":"sendBubbleMessage","params":"{\"duration\":163,\"isCaller\":0,\"isEnableCallback\":1,\"calltype\":0}"}
+[2025-02-19 15:36:13:109] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: Anh ơi
+[2025-02-19 15:36:21:881] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: thánh toán trước khi gửi nha anh
+[2025-02-19 15:36:33:393] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: csp npp báo cọc 1005 Á
+[2025-02-19 15:38:23:377] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: 100%
+[2025-02-19 15:42:27:864] [KH] Mr.Chinh MDO_BDU_SM_VISTACO: Đại Lý cung cấp các thông tin EU khi đặt hàng ( đây là thông tin bắt buộc do Microsoft yêu cầu )
+1.Tên EU & MST: CÔNG TY TRÁCH NHIỆM HỮU HẠN XÂY DỰNG HO TEAM
+MST : 3600914716
+2.Địa chỉ: Đường số 3, KCN Tam Phước, Phường Tam Phước, Thành phố Biên Hoà, Tỉnh Đồng Nai, Việt Nam
+3.Người liên hệ: Chị Thi
+4.SĐT: 02513510158
+5.Email: congtyhoteam@gmail.com
+6.Domain : congtyhoteam@gmail.com (Domain dùng quản lý key có đuôi .onmicrosoft.com nếu chưa có thì tạo mới MS sẽ hỗ trợ)
+[2025-02-19 15:43:20:873] [KH] Mr.Chinh MDO_BDU_SM_VISTACO: đặt 1 bản nha em
+[2025-02-19 15:44:55:756] [KH] Mr.Chinh MDO_BDU_SM_VISTACO: {"thumb":"https://f14-zpc.zdn.vn/jpg/2790403866402807373/f0e1e75c35608b3ed271.jpg","description":"","action":"","childnumber":0,"href":"https://f14-zpc.zdn.vn/jpg/2790403866402807373/f0e1e75c35608b3ed271.jpg","title":"","params":"{\"rawUrl\":\"https:\\/\\/f14-zpc.zdn.vn\\/jpg\\/2790403866402807373\\/f0e1e75c35608b3ed271.jpg\",\"width\":1236,\"convertible\":\"jxl\",\"hd\":\"https:\\/\\/f14-zpc.zdn.vn\\/jpg\\/2790403866402807373\\/f0e1e75c35608b3ed271.jpg\",\"hdSize\":17336,\"height\":207}","type":""}
+[2025-02-19 15:49:23:622] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: dạ anh
+[2025-02-19 15:59:13:720] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: congtyhoteam.onmicrosoft.com
+[2025-02-19 15:59:15:206] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: anh ơi
+[2025-02-19 15:59:20:690] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: anh chịu domain này ko
+1.Tên EU & MST:
+2.Địa chỉ:
+3.Người liên hệ:
+4.SĐT:
+5.Email:
+6.Domain (Domain dùng quản lý key có đuôi .onmicrosoft.com nếu chưa có thì tạo mới MS sẽ hỗ trợ)
+======
+[1575449058178216293_[KH] Ms.Duy HQC_GVA_SM_THIENAN]
+[2025-02-19 13:45:52:209] [KH] Ms.Duy HQC_GVA_SM_THIENAN: em ơi
+[2025-02-19 13:45:59:500] [KH] Ms.Duy HQC_GVA_SM_THIENAN: em có làm linh kiện server k?
+[2025-02-19 13:46:01:216] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: dạ em nghe chị Duy ơi
+[2025-02-19 13:46:04:674] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: dạ có chị
+[2025-02-19 13:46:10:299] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: chị cần linh kiện nào á
+[2025-02-19 13:46:16:027] [KH] Ms.Duy HQC_GVA_SM_THIENAN: HPE 16GB (1x16GB) Dual Rank x8 DDR4-2400 CAS-17-17-17
+[2025-02-19 13:46:16:027] [KH] Ms.Duy HQC_GVA_SM_THIENAN: HPE 16GB (1x16GB) Dual Rank x8 DDR4-2400 CAS-17-17-17
+Unbuffered Standard Memory Kit - 862976-B21
+[2025-02-19 13:46:43:094] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: cần mấy ổ chị gái
+[2025-02-19 13:46:47:015] [KH] Ms.Duy HQC_GVA_SM_THIENAN: 2 á
+[2025-02-19 13:48:38:866] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: này ko sẵn kho rr chị
+[2025-02-19 13:48:47:478] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: em check hàng báo lại chị nhen
+[2025-02-19 13:48:50:015] [KH] Ms.Duy HQC_GVA_SM_THIENAN: đặt bao lâu e?
+[2025-02-19 13:49:02:446] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: em hỏi npp xem
+[2025-02-19 13:49:06:451] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: có em báo chị nhen
+[2025-02-19 13:49:16:010] [KH] Ms.Duy HQC_GVA_SM_THIENAN: ok nha
+[2025-02-19 13:50:00:188] [KH] Ms.Duy HQC_GVA_SM_THIENAN: Bộ Nhớ RAM IBM 16GB PC3-10600R ECC REG 1333Mhz DDR3
+[2025-02-19 13:50:07:742] [KH] Ms.Duy HQC_GVA_SM_THIENAN: với có này số lượng 2 không e
+[2025-02-19 14:08:15:594] [KH] Ms.Duy HQC_GVA_SM_THIENAN: em ơi check này nữa nhen
+[2025-02-19 14:11:05:876] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: dạ chị
+[2025-02-19 14:43:43:415] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: 862976 – b21	Ram 16Gb PC4 19200 2400T-E HP
+[2025-02-19 14:43:43:415] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: 862976 – b21	Ram 16Gb PC4 19200 2400T-E HP
+Giá 4,530,000 fv, BH 1 năm, newbox, nhập khẩu
+
+49Y1563	Ram 16Gb DDR3 pc10600 Low power BM
+Giá 2,400,000 fv, BH 1 năm, newbox, nhập khẩu
+[2025-02-19 14:44:26:392] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: em gửi chị nhen
+[2025-02-19 15:18:22:520] [KH] Ms.Duy HQC_GVA_SM_THIENAN: giao hàng trong bao lâu e?
+[2025-02-19 15:18:51:842] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: đặt hàng 1 đến 2 ngày chị
+[2025-02-19 15:29:38:928] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: {"thumb":"","description":"Cuộc gọi","action":"recommened.calltime","childnumber":0,"href":"","title":"sendBubbleMessage","params":"{\"duration\":138,\"isCaller\":1,\"isEnableCallback\":1,\"calltype\":0}"}
+[2025-02-19 15:58:56:845] [KH] Ms.Duy HQC_GVA_SM_THIENAN: Em ơi sao rồi
+[2025-02-19 15:59:34:033] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: 862976 – b21	Ram 16Gb PC4 19200 2400T-E HP
+Giá 4,040,000 fv, BH 1 năm, newbox, nhập khẩu
+
+49Y1563	Ram 16Gb DDR3 pc10600 Low power BM
+Giá 2,300,000 fv, BH 1 năm, newbox, nhập khẩu
+[2025-02-19 15:59:39:267] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: ko cocq nhen chị Duy
+Unbuffered Standard Memory Kit - 862976-B21
+Giá 4,530,000 fv, BH 1 năm, newbox, nhập khẩu
+
+49Y1563	Ram 16Gb DDR3 pc10600 Low power BM
+Giá 2,400,000 fv, BH 1 năm, newbox, nhập khẩu
+======
+[1082276800592671677_[KH] Vân Nguyễn  PHANQUANG]
+[2025-02-19 15:18:07:869] [KH] Vân Nguyễn  PHANQUANG: {"thumb":"https://f17-zpc.zdn.vn/jpg/6983858480549450040/ce220bdc41e0ffbea6f1.jpg","description":"","action":"","childnumber":0,"href":"https://f17-zpc.zdn.vn/jpg/6983858480549450040/ce220bdc41e0ffbea6f1.jpg","title":"","params":"{\"width\":430,\"convertible\":\"jxl\",\"hd\":\"https:\\/\\/f17-zpc.zdn.vn\\/jpg\\/6983858480549450040\\/ce220bdc41e0ffbea6f1.jpg\",\"hdSize\":9782,\"height\":105}","type":""}
+[2025-02-19 15:18:10:968] [KH] Vân Nguyễn  PHANQUANG: nbaos c với
+[2025-02-19 15:18:33:831] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: Máy tính để bàn Dell Inspiron 3030T i5-14400(10*2.5), 8GB DDR5, SSD 512GB PCIe, Wifi+BT, Win11 SL, Dell Optical Mouse & Keyboard, 01 Year(T6FDR1)	 14,000,000
+[2025-02-19 15:18:35:405] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: Lưu ý: Báo giá có hiệu lực trong vòng 3 ngày. Check lại hàng trước khi chốt giúp em
+======
+[397021869200113210_[KH] Mr.Phùng HQS_Q03_VT_PHUNGHUNG  0913757177]
+[2025-02-19 13:41:06:363] [KH] Mr.Phùng HQS_Q03_VT_PHUNGHUNG  0913757177: Bộ phát wifi Aruba AP-503
+[2025-02-19 13:41:59:243] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: này anh hỏi linh kiện giúp em nha
+[2025-02-19 15:12:26:396] [KH] Mr.Phùng HQS_Q03_VT_PHUNGHUNG  0913757177: Máy tính bàn Dell OptiPlex Tower (7010) i5-12500,8GB,512GB SSD,Intel UHD Graphics 770,Keyboard KB216,Mouse Ms116,Fedora Linux,3Yr ProSupport
+[2025-02-19 15:12:36:248] [KH] Mr.Phùng HQS_Q03_VT_PHUNGHUNG  0913757177: dong bh 3 nam này em có ko
+[2025-02-19 15:14:55:068] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: dạ ko có á anh
+[2025-02-19 15:14:58:100] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: có 1 năm à
+[2025-02-19 15:15:03:457] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: mà 7020 ạ
+[2025-02-19 15:15:45:343] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: Máy tính để bàn Dell OptiPlex Tower 7020, i5-12500, 8GB DDR5, 512GB SSD, Intel UHD Graphics 770,  USB Keyboard & Mouse, Win 11 Home, 01Year	 13,300,000
+======
+[58135760306878326_[KH] Chụy Linh ADMIN]
+[2025-02-19 14:47:21:459] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: {"thumb":"","description":"","action":"","childnumber":0,"href":"https://do37.dlfl.me/7ab93b756338c2669b29/7272190987577557248","title":"BC.TRIỂN KHAI CHÀO HÀNG LCD HP P19V T11.2024.xlsx","params":"{\"fileSize\":\"33084\", \"checksum\":\"ba9a7690adf699e1b5acff018e0de8a2\", \"checksumSha\":\"null\", \"fileExt\":\"xlsx\", \"fdata\":\"{}\", \"fType\":1}","type":""}
+======
+[5699548871712353952_[KH] A. Chương Server NK 266]
+[2025-02-19 13:48:30:267] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: HPE 16GB (1x16GB) Dual Rank x8 DDR4-2400 CAS-17-17-17
+[2025-02-19 13:48:30:267] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: HPE 16GB (1x16GB) Dual Rank x8 DDR4-2400 CAS-17-17-17
+Unbuffered Standard Memory Kit - 862976-B21
+
+check giúp em sl2 có hàng ko anh
+[2025-02-19 13:50:28:696] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: Bộ Nhớ RAM IBM 16GB PC3-10600R ECC REG 1333Mhz DDR3
+[2025-02-19 14:11:29:775] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: Samsung 32GB DDR4-3200 ECC UDIMM		 3,000,000 	 03 Years
+[2025-02-19 14:12:10:015] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: anh ơi nhập hàng tầm bao lâu có z anh
+[2025-02-19 14:13:37:477] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: {"thumb":"","description":"Cuộc gọi","action":"recommened.calltime","childnumber":0,"href":"","title":"sendBubbleMessage","params":"{\"duration\":31,\"isCaller\":1,\"isEnableCallback\":1,\"calltype\":0}"}
+[2025-02-19 14:37:18:639] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: {"thumb":"https://f15-zpc.zdn.vn/jpg/2903103189468417438/b15dddce39f387addee2.jpg","description":"","action":"","childnumber":0,"href":"https://f15-zpc.zdn.vn/jpg/2903103189468417438/b15dddce39f387addee2.jpg","title":"","params":"{\"rawUrl\":\"https:\\/\\/f15-zpc.zdn.vn\\/jpg\\/2903103189468417438\\/b15dddce39f387addee2.jpg\",\"width\":532,\"convertible\":\"jxl\",\"hd\":\"https:\\/\\/f15-zpc.zdn.vn\\/jpg\\/2903103189468417438\\/b15dddce39f387addee2.jpg\",\"hdSize\":100799,\"height\":598}","type":""}
+[2025-02-19 14:37:23:508] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: duyệt giá giúp em nha an
+[2025-02-19 14:43:26:573] [KH] A. Chương Server NK 266: 862976 – b21	Ram 16Gb PC4 19200 2400T-E HP
+[2025-02-19 14:43:26:573] [KH] A. Chương Server NK 266: 862976 – b21	Ram 16Gb PC4 19200 2400T-E HP
+Giá 4,530,000 fv, BH 1 năm, newbox, nhập khẩu
+
+49Y1563	Ram 16Gb DDR3 pc10600 Low power BM
+Giá 2,400,000 fv, BH 1 năm, newbox, nhập khẩu
+[2025-02-19 14:44:18:640] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: dạ anh
+[2025-02-19 15:37:46:669] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: 862976 – b21	Ram 16Gb PC4 19200 2400T-E HP
+Giá 3,500,000 fv, BH 1 năm, newbox, nhập khẩu
+
+49Y1563	Ram 16Gb DDR3 pc10600 Low power BM
+Giá 2,200,000 fv, BH 1 năm, newbox, nhập khẩ
+[2025-02-19 15:37:48:743] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: ANH ƠI
+[2025-02-19 15:37:53:256] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: KHÁCH ĐANG CÓ GIÁ NÀY A
+[2025-02-19 15:38:10:660] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: Mình có giảm giá được cho khách ko anh
+[2025-02-19 15:44:33:648] [KH] A. Chương Server NK 266: đợi a check ncc
+[2025-02-19 15:44:44:079] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: dạ anh check hộ em nhen
+[2025-02-19 15:44:51:407] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: này cocq đầy đủ ha anh
+[2025-02-19 15:47:10:097] [KH] A. Chương Server NK 266: ko co/cq e nha
+[2025-02-19 15:47:43:770] [KH] A. Chương Server NK 266: hãng off mã này lâu rồi
+[2025-02-19 15:49:11:240] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: z ko giảm hả anh
+[2025-02-19 15:50:18:918] [KH] A. Chương Server NK 266: a đang check ncc đợi phản hồi cái e
+[2025-02-19 15:56:01:124] [KH] A. Chương Server NK 266: 862976 – b21	Ram 16Gb PC4 19200 2400T-E HP
+Giá 4,040,000 fv, BH 1 năm, newbox, nhập khẩu
+
+49Y1563	Ram 16Gb DDR3 pc10600 Low power BM
+Giá 2,300,000 fv, BH 1 năm, newbox, nhập khẩu
+[2025-02-19 15:56:19:566] [KH] A. Chương Server NK 266: làm đucợ giá này e nhé
+[2025-02-19 15:59:50:146] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: dạ anh
+Unbuffered Standard Memory Kit - 862976-B21
+
+check giúp em sl2 có hàng ko anh
+Giá 4,530,000 fv, BH 1 năm, newbox, nhập khẩu
+49Y1563	Ram 16Gb DDR3 pc10600 Low power BM
+Giá 2,400,000 fv, BH 1 năm, newbox, nhập khẩu
+======
+[3845564265643676390_[KH] Ms.Hoa MTA_TVI_SM_TVC]
+[2025-02-19 14:27:51:531] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: Chị Hoa ơi
+[2025-02-19 14:28:07:316] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: nay chị cho em xin kí gửi màn p19v được ko chị
+[2025-02-19 14:28:13:746] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: cho em xín kí gửi 2 cái thui
+[2025-02-19 14:35:57:244] [KH] Ms.Hoa MTA_TVI_SM_TVC: OK d
+[2025-02-19 14:37:29:292] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: dạ em cám ơn chị
+======
+[442059592292752794_[KH] Mr. Tuấn  MTR_DNG_SM_PHANQUANG]
+[2025-02-19 13:53:28:698] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: Samsung 32GB DDR4-3200 ECC UDIMM		 3,000,000 	 03 Years
+[2025-02-19 13:53:28:698] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: Samsung 32GB DDR4-3200 ECC UDIMM		 3,000,000 	 03 Years
+
+MÁY TÍNH CHỦ DELL POWEREDGE T150 SERVER E-2314/ 8GB DDR4 UDIMM 3200MT/ 1TB 7.2K RPM SATA ENTRY/EMBEDDED SATA / IDRAC9 BASIC/ BC5720DP 1GBE LOM/ DVDRW/ CABLED PSU 300W/ NO OS/ 4 YRS PRO
+
+Giá : 24.780.000 fv
+
+
+Anh ơi bộ này em xin pm cân đối giảm được 180k phụ phí vận chuyển là hết cỡ á anh
+[2025-02-19 13:57:08:489] [KH] Mr. Tuấn  MTR_DNG_SM_PHANQUANG: ok gởi Xe Trung nam về giúp a 1 bộ đó nhé
+[2025-02-19 13:57:16:376] [KH] Mr. Tuấn  MTR_DNG_SM_PHANQUANG: 1 PC và 1 ram 32Gb
+[2025-02-19 13:57:21:861] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: Dạ gắn ram luôn ko anh
+[2025-02-19 13:57:26:145] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: anh để rời ạ
+[2025-02-19 13:57:36:832] [KH] Mr. Tuấn  MTR_DNG_SM_PHANQUANG: để rời, về khách gắn sau
+[2025-02-19 13:57:54:439] [KH] Mr. Tuấn  MTR_DNG_SM_PHANQUANG: à e nhờ kt gắn test lun xem nhận ko dùm a
+[2025-02-19 13:58:14:690] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: gắn test rr tháo ra hả anh
+[2025-02-19 13:59:07:984] [KH] Mr. Tuấn  MTR_DNG_SM_PHANQUANG: đúng rồi
+[2025-02-19 14:09:09:317] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: Anh Tuấn ơi
+[2025-02-19 14:11:12:936] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: cái ram á anh
+[2025-02-19 14:11:18:452] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: hiện em đang hết hàng á
+[2025-02-19 14:23:57:335] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: em đặt hàng ram 1 đến 2 ngày rr mốt em giao hàng anh được ko ạ
+[2025-02-19 14:34:08:176] [KH] Mr. Tuấn  MTR_DNG_SM_PHANQUANG: vậy gởi PC về trước dùm a
+[2025-02-19 14:34:14:280] [KH] Mr. Tuấn  MTR_DNG_SM_PHANQUANG: ram về báo a gởi sau
+[2025-02-19 14:34:34:313] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: dạ anh
+[2025-02-19 14:34:41:314] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: z để e đặt hàng ram luon
+[2025-02-19 14:37:06:776] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: {"thumb":"https://f20-zpc.zdn.vn/jpg/8234958312575785070/14b44b0eae33106d4922.jpg","description":"","action":"","childnumber":0,"href":"https://f20-zpc.zdn.vn/jpg/8234958312575785070/14b44b0eae33106d4922.jpg","title":"","params":"{\"rawUrl\":\"https:\\/\\/f20-zpc.zdn.vn\\/jpg\\/8234958312575785070\\/14b44b0eae33106d4922.jpg\",\"width\":532,\"convertible\":\"jxl\",\"hd\":\"https:\\/\\/f20-zpc.zdn.vn\\/jpg\\/8234958312575785070\\/14b44b0eae33106d4922.jpg\",\"hdSize\":100799,\"height\":598}","type":""}
+[2025-02-19 14:37:10:107] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: dạ e gửi anh ạ
+
+MÁY TÍNH CHỦ DELL POWEREDGE T150 SERVER E-2314/ 8GB DDR4 UDIMM 3200MT/ 1TB 7.2K RPM SATA ENTRY/EMBEDDED SATA / IDRAC9 BASIC/ BC5720DP 1GBE LOM/ DVDRW/ CABLED PSU 300W/ NO OS/ 4 YRS PRO
+Giá : 24.780.000 fv
+Anh ơi bộ này em xin pm cân đối giảm được 180k phụ phí vận chuyển là hết cỡ á anh
+======
+[2821552484637734544_[KH] Ms.Diệu HQS_Q03_SM_ADCVIETNAM  0933192768]
+[2025-02-19 14:05:07:987] [KH] Ms.Diệu HQS_Q03_SM_ADCVIETNAM  0933192768: Máy tính để bàn HP Pro Tower 280 G9,Core i5-12500,8GB RAM,256GB SSD,Intel Graphics,Wlan ac+BT,USB Keyboard & Mouse,Win11 Home 64,01Year_AT4J5PT	 11.600.000
+[2025-02-19 14:05:12:939] [KH] Ms.Diệu HQS_Q03_SM_ADCVIETNAM  0933192768: con này có wifi ko ngọc
+[2025-02-19 14:05:19:227] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: có á chị gái ơi
+[2025-02-19 14:05:22:119] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: hp là có
+[2025-02-19 14:05:27:054] [KH] Ms.Diệu HQS_Q03_SM_ADCVIETNAM  0933192768: ờ
+[2025-02-19 14:05:40:809] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: lại hờ hững dứ nta nữa gòi ấy
+[2025-02-19 14:06:03:135] [KH] Ms.Diệu HQS_Q03_SM_ADCVIETNAM  0933192768: bực
+[2025-02-19 14:06:16:621] [KH] Ms.Diệu HQS_Q03_SM_ADCVIETNAM  0933192768: cty bán hàng ép quá nên bực
+[2025-02-19 14:14:22:143] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: chị ơi
+[2025-02-19 14:14:27:574] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: bé có ép đou hix
+[2025-02-19 14:15:36:658] [KH] Ms.Diệu HQS_Q03_SM_ADCVIETNAM  0933192768: cty ép
+[2025-02-19 14:15:41:812] [KH] Ms.Diệu HQS_Q03_SM_ADCVIETNAM  0933192768: chịu chưa
+[2025-02-19 14:15:56:964] [KH] Ms.Diệu HQS_Q03_SM_ADCVIETNAM  0933192768: nói chứ xin giá giảm bộ đó cho c đi
+[2025-02-19 14:16:06:517] [KH] Ms.Diệu HQS_Q03_SM_ADCVIETNAM  0933192768: cuối tháng c lấy
+[2025-02-19 14:17:07:927] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: còn lì xì 200k á chị gái
+[2025-02-19 14:17:17:466] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: trừ dô còn 11tr400 á
+[2025-02-19 14:17:52:908] [KH] Ms.Diệu HQS_Q03_SM_ADCVIETNAM  0933192768: trừ 400k luôn ik
+[2025-02-19 14:18:34:597] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: hem có được thiệt í
+[2025-02-19 14:18:50:633] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: được em trừ cho chế liền luôn
+[2025-02-19 14:18:55:452] [KH] Ms.Diệu HQS_Q03_SM_ADCVIETNAM  0933192768: cái gỉ cũng ko ko
+[2025-02-19 14:19:01:824] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: chứ em giữ cũng đou làm j đou đúng hem chế
+[2025-02-19 14:19:02:191] [KH] Ms.Diệu HQS_Q03_SM_ADCVIETNAM  0933192768: chán NK quá
+[2025-02-19 14:19:32:672] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: tại âm iít thoy chứ bán hàng âm nhiều quá thì nó kì kk
+[2025-02-19 14:19:44:865] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: 200k là quá chời gòi chế ơi kk
+[2025-02-19 14:19:54:079] [KH] Ms.Diệu HQS_Q03_SM_ADCVIETNAM  0933192768: quá rồi hả
+[2025-02-19 14:23:26:066] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: quá dữ luôn á chế
+[2025-02-19 14:23:37:817] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: từ lỗ tới lỗ
+[2025-02-19 14:23:41:371] [KH] Ms.Diệu HQS_Q03_SM_ADCVIETNAM  0933192768: dạ
+[2025-02-19 14:24:12:489] [KH] Ms.Diệu HQS_Q03_SM_ADCVIETNAM  0933192768: vậy luôn
+======
+[8797622650581259439_[KH] Ms.Mùi CN Tỉnh_104]
+[2025-02-19 14:20:31:474] [KH] Ms.Mùi CN Tỉnh_104: {"thumb":"https://f18-zpc.zdn.vn/jpg/3589751310140633603/6c16417a6d47d3198a56.jpg","description":"","action":"","childnumber":0,"href":"https://f18-zpc.zdn.vn/jpg/3589751310140633603/6c16417a6d47d3198a56.jpg","title":"","params":"{\"rawUrl\":\"https:\\/\\/f18-zpc.zdn.vn\\/jpg\\/3589751310140633603\\/6c16417a6d47d3198a56.jpg\",\"width\":936,\"convertible\":\"jxl\",\"hd\":\"https:\\/\\/f18-zpc.zdn.vn\\/jpg\\/3589751310140633603\\/6c16417a6d47d3198a56.jpg\",\"hdSize\":22142,\"height\":123}","type":""}
+======
+[3303289674479076207_[KH] Trangnguyen]
+[2025-02-19 11:20:24:392] [KH] Trangnguyen: {"thumb":"https://f15-zpc.zdn.vn/jpg/1649524463210633130/b1cced0d5d3de363ba2c.jpg","description":"","action":"","childnumber":0,"href":"https://f15-zpc.zdn.vn/jpg/1649524463210633130/b1cced0d5d3de363ba2c.jpg","title":"","params":"{\"rawUrl\":\"https:\\/\\/f15-zpc.zdn.vn\\/jpg\\/1649524463210633130\\/b1cced0d5d3de363ba2c.jpg\",\"width\":1909,\"convertible\":\"jxl\",\"hd\":\"https:\\/\\/f15-zpc.zdn.vn\\/jpg\\/1649524463210633130\\/b1cced0d5d3de363ba2c.jpg\",\"hdSize\":118504,\"height\":1005}","type":""}
+[2025-02-19 11:20:32:703] [KH] Trangnguyen: phiếu này e chưa gửi c tt gửi key đúng k
+[2025-02-19 11:20:44:405] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: khách chưa đi unc chị ơi
+[2025-02-19 11:20:51:862] [KH] Trangnguyen: ok e
+[2025-02-19 13:44:35:177] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: Project Pro 2024 All Lng Retail Online ESD	27,250,000
+[2025-02-19 13:44:41:901] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: check giá giúp em
+[2025-02-19 13:59:37:870] [KH] Trangnguyen: EP2-07000	Project Pro 2024 All Lng Retail Online ESD => 27.600.000vnđ/1b nha e
+[2025-02-19 14:00:26:654] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: tăng giá nữa hả chị
+[2025-02-19 14:01:38:355] [KH] Trangnguyen: đúng e, FPT gửi bbg mới hôm 17/2 nên những mặt hàng ESD nhập FPT sẽ theo giá tăng từ 17/2
+[2025-02-19 14:05:03:253] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: dạ chị
+[2025-02-19 15:32:51:201] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: Microsoft 365 Copilot
+[2025-02-19 15:32:55:685] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: cho em xin gái
+[2025-02-19 15:41:03:641] [KH] Trangnguyen: Microsoft 365 Copilot	Annual: 8.752.000vnđ/1b giá hôm nay
+[2025-02-19 15:41:18:195] [KH] Trangnguyen: Microsoft 365 Copilot	: 8.752.000vnđ/1b giá hôm nay
+[2025-02-19 15:41:19:904] [KH] Trangnguyen: {"globalMsgId":6332406660926,"destId":0,"srcId":3303289674479076207,"deleteMsg":0,"cliMsgId":1739954462913}
+[2025-02-19 15:43:56:125] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: dạ chị
+[2025-02-19 15:44:07:557] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: Đại Lý cung cấp các thông tin EU khi đặt hàng ( đây là thông tin bắt buộc do Microsoft yêu cầu )
+1.Tên EU & MST: CÔNG TY TRÁCH NHIỆM HỮU HẠN XÂY DỰNG HO TEAM
+MST : 3600914716
+2.Địa chỉ: Đường số 3, KCN Tam Phước, Phường Tam Phước, Thành phố Biên Hoà, Tỉnh Đồng Nai, Việt Nam
+3.Người liên hệ: Chị Thi
+4.SĐT: 02513510158
+5.Email: congtyhoteam@gmail.com
+6.Domain : congtyhoteam@gmail.com (Domain dùng quản lý key có đuôi .onmicrosoft.com nếu chưa có thì tạo mới MS sẽ hỗ trợ)
+[2025-02-19 15:44:30:228] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: check giúp em thông tin này đặt được hem chị gái
+[2025-02-19 15:49:36:813] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: check giúp em rr em báo khách cọc nha chị
+[2025-02-19 15:57:33:239] [KH] Trangnguyen: gợi ý: congtyhoteam.onmicrosoft.com
+[2025-02-19 15:57:42:233] [KH] Trangnguyen: e hỏi khách chịu domail đó k
+[2025-02-19 16:00:43:341] [KH] Trangnguyen: đặt hàng thì mail chị nha, nhớ kêu cọc, còn k cọc thì báo Nhật xác nhận mail
+[2025-02-19 16:00:49:629] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: dạ chị
+[2025-02-19 16:00:52:168] [KH] Trangnguyen: giờ c đi đón bé xíu, trễ quá
+[2025-02-19 16:01:11:174] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: chị ơi
+[2025-02-19 16:01:14:072] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: gửi key á
+[2025-02-19 16:01:20:012] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: chị dón bé nhanh ko
+[2025-02-19 16:01:23:521] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: khách em cần gấp
+======
+[2902327196524254975_[KH] Mr.Trường HQC_TPH_DI_HIEPTHANH 0903119073]
+[2025-02-19 09:37:39:919] [KH] Mr.Trường HQC_TPH_DI_HIEPTHANH 0903119073: Em báo anh máy PC Dell cấu hình mạnh ram 16GB hoặc 32GB SSD 1TB nhé
+[2025-02-19 09:37:39:919] [KH] Mr.Trường HQC_TPH_DI_HIEPTHANH 0903119073: Em báo anh máy PC Dell cấu hình mạnh ram 16GB hoặc 32GB SSD 1TB nhé
+Màn Dell 27" màu trắng luôn
+[2025-02-19 09:37:49:452] [KH] Mr.Trường HQC_TPH_DI_HIEPTHANH 0903119073: Chắc cũng sắp đó em
+[2025-02-19 09:37:58:144] [KH] Mr.Trường HQC_TPH_DI_HIEPTHANH 0903119073: Dell D2020 nhiêu em
+[2025-02-19 09:38:08:354] [KH] Mr.Trường HQC_TPH_DI_HIEPTHANH 0903119073: Cho anh giá nhé
+[2025-02-19 09:39:25:587] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: Máy tính để bàn Dell Vostro 3020T 13th Core i7-13700, 8GB DDR4 3200Mhz, SSD 512GB PCIe, No DVD, Wifi+BT, Win11 SL, Dell Optical Mouse & Keyboard, 01Year, Malaysia_MTI72062W1-8G-512G	 18,950,000
+[2025-02-19 09:39:36:989] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: em có bộ này anh gắn thêm ram 8gb giúp em dới
+[2025-02-19 09:39:53:325] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: Màn hình máy tính Dell U2424H 23.8" Full HD LED 1920x1080 IPS 120Hz, 1xDP 1.4 , 1 HDMI 1.4, 1 USB Typce - C upstream port, 1 USB TypeC downstream, 3 x USB 10Gpbs, 1 Display Port (out) with MST, 1 audio line out port, 03 Year.	 5,160,000
+[2025-02-19 09:40:00:228] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: Màn hình máy tính Dell D2020H 19.5inch, 1600x900, VGA, HDMi, LED, 03 Years.	 1,700,000
+[2025-02-19 09:40:12:092] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: dạ em gửi anh ạ
+[2025-02-19 10:40:42:584] [KH] Mr.Trường HQC_TPH_DI_HIEPTHANH 0903119073: 1TB Có hàng không em
+[2025-02-19 10:45:59:165] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: máy sẵn 1T thì em ko có á
+[2025-02-19 10:46:15:250] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: anh hỏi anh Trí ổ này gắn thêm giúp em nhen
+[2025-02-19 11:32:33:406] [KH] Mr.Trường HQC_TPH_DI_HIEPTHANH 0903119073: Màn 27 có hàng ko em
+[2025-02-19 11:33:36:657] [KH] Mr.Trường HQC_TPH_DI_HIEPTHANH 0903119073: Dell 27" Trắng
+[2025-02-19 11:37:46:194] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: em ko có rr anh
+[2025-02-19 11:37:48:748] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: có dell à
+[2025-02-19 11:37:51:658] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: {"globalMsgId":6331654482417,"destId":2902327196524254975,"srcId":0,"deleteMsg":0,"cliMsgId":1739939868502}
+[2025-02-19 11:37:55:170] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: có đen à anh
+[2025-02-19 11:38:08:861] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: Màn hình máy tính Dell E2723H 27" Full HD LED 1920x1080, 60Hz, 16.7M Color, 16:9,  DisplayPort, VGA, 03 Years.	 3,320,000
+[2025-02-19 11:38:34:534] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: Màn hình máy tính HP S5 524sw 23.8inch Full HD, IPS, 1920x1080, 5ms, HDMI, 03Year, China, HDMI cable_94C22AA(trắng)	 3,500,000
+[2025-02-19 11:38:38:958] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: trắng có hp á anh
+[2025-02-19 11:38:42:431] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: mà 24 ạ
+[2025-02-19 13:53:49:301] [KH] Mr.Trường HQC_TPH_DI_HIEPTHANH 0903119073: PDC42PT3680D03	Máy tính bàn Dell Precision 3680 Tower/ Intel Core i7 14700 2.1GHz/ 16GB DDR5/ 256GB SSD/ 2TB SATA/ NVIDIA T400/ 300W/ Keyboard KB216/ Mouse MS116/ Ubuntu 22.04/ProSupport 36M & KYHD
+[2025-02-19 13:53:58:313] [KH] Mr.Trường HQC_TPH_DI_HIEPTHANH 0903119073: Mẫu này chắc cũng có hả em
+[2025-02-19 13:54:54:520] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: Máy tính trạm Dell Precision 3680 Tower, i7-14700, 16GB, 256GB SSD, 4TB HDD, NVIDIA T400 4GB, KB, M, 300W PSU, Ubuntu, 3Y WTY	 36,380,000
+[2025-02-19 13:54:58:486] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: em có mã này ạ
+[2025-02-19 13:55:06:414] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: hàng ko săn kho á anh
+[2025-02-19 13:55:45:003] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: nên anh check lại giúp em trucớ khi chốt nhen
+Màn Dell 27" màu trắng luôn
+======
+[9191553755618576438_[KH] 18. A.Nhật PC_NK]
+[2025-02-19 13:51:11:354] [KH] 18. A.Nhật PC_NK: Samsung 32GB DDR4-3200 ECC UDIMM		 3,000,000 	 03 Years
+[2025-02-19 13:51:12:869] [KH] 18. A.Nhật PC_NK: MÁY TÍNH CHỦ DELL POWEREDGE T150 SERVER E-2314/ 8GB DDR4 UDIMM 3200MT/ 1TB 7.2K RPM SATA ENTRY/EMBEDDED SATA / IDRAC9 BASIC/ BC5720DP 1GBE LOM/ DVDRW/ CABLED PSU 300W/ NO OS/ 4 YRS PRO
+[2025-02-19 13:51:12:869] [KH] 18. A.Nhật PC_NK: MÁY TÍNH CHỦ DELL POWEREDGE T150 SERVER E-2314/ 8GB DDR4 UDIMM 3200MT/ 1TB 7.2K RPM SATA ENTRY/EMBEDDED SATA / IDRAC9 BASIC/ BC5720DP 1GBE LOM/ DVDRW/ CABLED PSU 300W/ NO OS/ 4 YRS PRO
+
+Giá : 24.780.000 fv
+[2025-02-19 13:51:17:345] [KH] 18. A.Nhật PC_NK: coi có chtrinh giảm giá á
+[2025-02-19 13:51:23:301] [KH] 18. A.Nhật PC_NK: muốn giảm nhiu bán cho Anh Tuấn Phan Quang
+[2025-02-19 13:51:24:993] [KH] 18. A.Nhật PC_NK: thì bán :)))
+[2025-02-19 13:53:45:647] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: âu cơ an
+
+Giá : 24.780.000 fv
+======
+[5576798749387509980_[KH] Mr.Quân HQC_BTH_GP_HTSV]
+[2025-02-19 13:43:51:801] [KH] Mr.Quân HQC_BTH_GP_HTSV: Alo e
+[2025-02-19 13:44:05:106] [KH] Mr.Quân HQC_BTH_GP_HTSV: Bên mình có mấy dòng pc aio one ko e?
+[2025-02-19 13:45:10:605] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: dạ có anh
+[2025-02-19 13:45:13:770] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: hp nhen anh
+[2025-02-19 13:45:30:700] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: Máy tính để bàn HP 200 Pro G4 AIO,Core i3-1215U,8GB RAM,512GB SSD,Intel Graphics,21.5"FHD,Webcam,Wlan ac+BT,USB Keyboard & Mouse,Win11 Home 64,01Year_74S23PA	 13,000,000
+[2025-02-19 13:45:30:700] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: Máy tính để bàn HP 200 Pro G4 AIO,Core i3-1215U,8GB RAM,512GB SSD,Intel Graphics,21.5"FHD,Webcam,Wlan ac+BT,USB Keyboard & Mouse,Win11 Home 64,01Year_74S23PA	 13,000,000
+
+Máy tính để bàn HP 200 Pro G4 AIO,Core i5-1235U,8GB RAM,512GB SSD,Intel Graphics,21.5"FHD,Webcam,Wlan ac+BT,USB Keyboard & Mouse,Win11 Home 64,01Year_74S25PA	 15,950,000
+[2025-02-19 13:45:38:120] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: em gửi anh hai dòng này
+[2025-02-19 13:45:41:419] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: anh tham khảo nhen
+[2025-02-19 13:46:12:412] [KH] Mr.Quân HQC_BTH_GP_HTSV: Dòng này là màn hình liền cpu phải ko e?
+[2025-02-19 13:46:17:792] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: dạ dr anh
+[2025-02-19 13:46:26:057] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: anh cần mấy cái á
+[2025-02-19 13:46:26:754] [KH] Mr.Quân HQC_BTH_GP_HTSV: Ok e để a báo khách
+[2025-02-19 13:49:13:530] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: dạ anh
+[2025-02-19 15:41:30:093] [KH] Mr.Quân HQC_BTH_GP_HTSV: Có mã nào cao hơn ko e?
+[2025-02-19 15:41:37:214] [KH] Mr.Quân HQC_BTH_GP_HTSV: Dòng này thấp quá
+[2025-02-19 15:43:45:985] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: cao hơn em có con i5 đó á anh
+[2025-02-19 15:43:52:382] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: cao hơn nữa em ko có á
+[2025-02-19 15:44:09:582] [KH] Mr.Quân HQC_BTH_GP_HTSV: Mấy dòng này cũ quá khách ko chịu
+[2025-02-19 15:45:40:753] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: ui cao hơn là em ko có rr á
+[2025-02-19 15:45:49:432] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: để em check hàng ngoài xem
+
+Máy tính để bàn HP 200 Pro G4 AIO,Core i5-1235U,8GB RAM,512GB SSD,Intel Graphics,21.5"FHD,Webcam,Wlan ac+BT,USB Keyboard & Mouse,Win11 Home 64,01Year_74S25PA	 15,950,000
+======
+[651055398397409713_[KH] Diễm Phúc Số Cty 0908282857 HUYHOANG]
+[2025-02-19 11:45:23:509] [KH] Diễm Phúc Số Cty 0908282857 HUYHOANG: Office gia rẻ gio mình còn bản nào ah?
+[2025-02-19 11:45:49:821] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: Office Home 2024 All Lng APAC EM Retail Online ESD	2,200,000
+[2025-02-19 11:46:03:047] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: chị cần bản 365 hay vĩnh viễn á
+[2025-02-19 11:46:16:719] [KH] Diễm Phúc Số Cty 0908282857 HUYHOANG: 365 luon ah
+[2025-02-19 11:46:23:602] [KH] Diễm Phúc Số Cty 0908282857 HUYHOANG: em gui 2 bản de khách tham khao
+[2025-02-19 11:46:45:125] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: "Microsoft 365 Personal AllLng Sub PKLic 1YR Online APAC EM C2R NR (QQ2-00003)
+[2025-02-19 11:46:45:125] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: "Microsoft 365 Personal AllLng Sub PKLic 1YR Online APAC EM C2R NR (QQ2-00003)
+( sản phẩm dành cho người dùng cá nhân )"	1,430,000
+[2025-02-19 11:46:54:150] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: 365 em có mã này ạ
+[2025-02-19 11:55:32:545] [KH] Diễm Phúc Số Cty 0908282857 HUYHOANG: Cho Chi Win  Pro + Office Pro
+[2025-02-19 11:56:32:265] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: Win Pro 11 64Bit Eng Intl 1pk DSP OEI DVD ( FQC-10528)	2,750,000
+[2025-02-19 11:56:40:389] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: Office Pro 2021 Win All Lng APAC EM PK Lic Online DwnLd C2R NR (269-17185 )	9,080,000
+[2025-02-19 11:56:43:238] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: dạ em gửi chị
+( sản phẩm dành cho người dùng cá nhân )"	1,430,000
+======
+[8178102417706120902_[KH] Ms.Như HQS_Q07_SM_TIENPHONG]
+[2025-02-19 11:21:05:366] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: chị ơi
+[2025-02-19 11:22:14:639] [KH] Ms.Như HQS_Q07_SM_TIENPHONG: ơi
+[2025-02-19 11:22:27:855] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: chị đi unc giúp em chưa í
+[2025-02-19 11:23:45:436] [KH] Ms.Như HQS_Q07_SM_TIENPHONG: chưa em
+[2025-02-19 11:23:52:414] [KH] Ms.Như HQS_Q07_SM_TIENPHONG: chị kt mai mới vào
+[2025-02-19 11:28:21:208] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: dạ chị
+[2025-02-19 11:28:38:641] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: có j sớm giúp em cho bên em duyệt gửi key luôn nhen
+[2025-02-19 11:29:06:108] [KH] Ms.Như HQS_Q07_SM_TIENPHONG: okie em, chị cũng cần udpdate chừ sắp hết hạn rồi
+[2025-02-19 11:30:38:958] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: dạ chị
+======
+[7998365916013520967_[KH] Kim Khánh HQC_TPH_SM_HKC  0332446251]
+[2025-02-19 09:26:56:602] [KH] Kim Khánh HQC_TPH_SM_HKC  0332446251: LCD Dell 2422HE
+[2025-02-19 09:27:01:895] [KH] Kim Khánh HQC_TPH_SM_HKC  0332446251: Mã này còn hàng hông cưng
+[2025-02-19 09:27:23:451] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: Màn hình máy tính Dell U2424HE 23.8" Full HD LED 1920x1080 IPS 120Hz, 2xDP 1.4 (In-Out) With MST , 1xHDMI 1.4, 1xRJ45 port, 3xUSB Type C (video + data + charging 15W), 4xUSB 10Gpbs, 1xaudio line out port ,03 Year. (Tính năng kết nối 2 PC vào 1 màn hình)	 6,500,000
+[2025-02-19 09:27:30:395] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: có mã này nè gái ơi
+[2025-02-19 09:28:31:786] [KH] Kim Khánh HQC_TPH_SM_HKC  0332446251: p2425he 5050
+[2025-02-19 09:28:41:988] [KH] Kim Khánh HQC_TPH_SM_HKC  0332446251: Này thì m có hông
+[2025-02-19 09:28:55:864] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: hết luôn bay ơi
+[2025-02-19 09:28:56:442] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: Màn hình máy tính Dell P2425H 23.8 inches,  FHD (1920 x 1080), IPS, 16:9, 5ms, VGA, HDMI, Display Port, 3xUSB 3.2 Gen 1 Type A (downstream), 1xUSB 3.2 Gen 1 Type B (upstream), 1xUSB 3.2 Gen 1 Type C (downstream, 15W PD), 03Years.	 4,250,000
+[2025-02-19 09:29:05:314] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: còn h ko à thêm e t ko có á
+[2025-02-19 09:29:37:468] [KH] Kim Khánh HQC_TPH_SM_HKC  0332446251: Này hàng còn nhiều hông
+[2025-02-19 09:29:44:810] [KH] Kim Khánh HQC_TPH_SM_HKC  0332446251: Với nó tương đương với mã cũ hông
+[2025-02-19 09:30:30:725] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: còn nhiều m
+[2025-02-19 10:45:50:987] [KH] Kim Khánh HQC_TPH_SM_HKC  0332446251: Này gửi t chưa á
+[2025-02-19 10:46:00:548] [KH] Kim Khánh HQC_TPH_SM_HKC  0332446251: Để t dí kỹ thuật t cài cho khách
+[2025-02-19 10:46:52:480] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: {"thumb":"https://f24-zpc.zdn.vn/jpg/2090527671050732825/f04b0b2a201a9e44c70b.jpg","description":"","action":"","childnumber":0,"href":"https://f24-zpc.zdn.vn/jpg/2090527671050732825/f04b0b2a201a9e44c70b.jpg","title":"","params":"{\"rawUrl\":\"https:\\/\\/f24-zpc.zdn.vn\\/jpg\\/2090527671050732825\\/f04b0b2a201a9e44c70b.jpg\",\"width\":756,\"convertible\":\"jxl\",\"hd\":\"https:\\/\\/f24-zpc.zdn.vn\\/jpg\\/2090527671050732825\\/f04b0b2a201a9e44c70b.jpg\",\"hdSize\":40930,\"height\":449}","type":""}
+[2025-02-19 10:46:56:764] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: rr cô gái ơi
+[2025-02-19 10:48:33:249] [KH] Kim Khánh HQC_TPH_SM_HKC  0332446251: {"catId":12017,"id":47224,"type":7}
+[2025-02-19 11:08:22:014] [KH] Kim Khánh HQC_TPH_SM_HKC  0332446251: Máy tính để bàn Dell Inspiron 3030S Core i5 -14400 (10 core, 20M cache, Up to 4.6 Ghz ),1x16Gb DDR5 4400MT/s up to 64Gb, SSD 512Gb,Wifi + BT, Win11 SL, Non DVDRW, 180W PSU,1 year warranty
+[2025-02-19 11:08:22:014] [KH] Kim Khánh HQC_TPH_SM_HKC  0332446251: Máy tính để bàn Dell Inspiron 3030S Core i5 -14400 (10 core, 20M cache, Up to 4.6 Ghz ),1x16Gb DDR5 4400MT/s up to 64Gb, SSD 512Gb,Wifi + BT, Win11 SL, Non DVDRW, 180W PSU,1 year warranty
+
+ Màn hình máy tính Dell E2423H 23.8" Full HD
+LED, 1920x1080, VGA, Display Port, 03 Years
+[2025-02-19 11:08:29:953] [KH] Kim Khánh HQC_TPH_SM_HKC  0332446251: Gửi lại t giá với
+[2025-02-19 11:08:34:096] [KH] Kim Khánh HQC_TPH_SM_HKC  0332446251: Khách hỏi kkk
+[2025-02-19 11:08:38:505] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: chốt chốt hả kk
+[2025-02-19 11:08:47:991] [KH] Kim Khánh HQC_TPH_SM_HKC  0332446251: Hỏi lại giá hiện tại á
+[2025-02-19 11:08:50:481] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: Máy tính để bàn Dell Inspiron 3030S Core i5 - 14400 (10 core, 20M cache,  Up to 4.6 Ghz ), 1x16Gb DDR5 4400MT/s up to 64Gb, SSD 512Gb, Wifi + BT,  Win11 SL,  Non DVDRW, 180W PSU, 1 year warranty.	 15,400,000
+[2025-02-19 11:08:50:481] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: Máy tính để bàn Dell Inspiron 3030S Core i5 - 14400 (10 core, 20M cache,  Up to 4.6 Ghz ), 1x16Gb DDR5 4400MT/s up to 64Gb, SSD 512Gb, Wifi + BT,  Win11 SL,  Non DVDRW, 180W PSU, 1 year warranty.	 15,400,000
+Màn hình máy tính Dell E2423H 23.8" Full HD LED, 1920x1080, VGA, Display Port, 03 Years.	 2,400,000
+[2025-02-19 11:09:01:819] [KH] Kim Khánh HQC_TPH_SM_HKC  0332446251: Còn nhiều hàng hông
+[2025-02-19 11:09:10:610] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: m cần mấy bộ á
+[2025-02-19 11:09:28:211] [KH] Kim Khánh HQC_TPH_SM_HKC  0332446251: 1 à mà t sợ hết kkk
+[2025-02-19 11:09:37:933] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: 1 Kho nè kk
+[2025-02-19 11:09:44:140] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: lear hộ t đi kk
+[2025-02-19 11:10:37:692] [KH] Kim Khánh HQC_TPH_SM_HKC  0332446251: M mà xin được bên t công nợ là đỡ khó rồi ha
+[2025-02-19 11:10:49:489] [KH] Kim Khánh HQC_TPH_SM_HKC  0332446251: Má nhứt đầu lắm lun
+[2025-02-19 11:11:13:911] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: thiệt công nợ là cấp trên quyết á
+[2025-02-19 11:11:27:939] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: chứ mía t là đúng kiểu ko phận sự miễn vào á
+[2025-02-19 11:11:32:448] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: nên nó khó cho t
+[2025-02-19 11:11:43:653] [KH] Kim Khánh HQC_TPH_SM_HKC  0332446251: T hiểu mà
+[2025-02-19 11:11:55:038] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: t giừo làm hết mình về giá dứ bên m thoai
+[2025-02-19 11:12:07:416] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: chứ công nợ là t thua á
+[2025-02-19 11:12:18:528] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: chứ t cũng muốn bán hàng lắm lắm luôn i s
+[2025-02-19 11:12:28:079] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: m cứ cho giá t
+[2025-02-19 11:12:31:548] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: t cân dối
+[2025-02-19 11:12:34:930] [KH] Kim Khánh HQC_TPH_SM_HKC  0332446251: Ròi có gì t báo nha
+[2025-02-19 11:12:41:385] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: t hết cỡ t xin tới xếp cân đói cho m
+[2025-02-19 11:12:50:488] [KH] Kim Khánh HQC_TPH_SM_HKC  0332446251: T cũng ráng mua ủng hộ m
+[2025-02-19 11:13:07:926] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: âu cơ hhê năm nay cty m có đi du lịch j đồ ko
+[2025-02-19 11:13:26:375] [KH] Kim Khánh HQC_TPH_SM_HKC  0332446251: Chua nghe á
+[2025-02-19 11:13:29:144] [KH] Kim Khánh HQC_TPH_SM_HKC  0332446251: ty m đi hả
+[2025-02-19 11:13:30:438] [KH] Kim Khánh HQC_TPH_SM_HKC  0332446251: Màn hình máy tính Dell E2423H 23.8" Full HD LED, 1920x1080, VGA, Display Port, 03 Years
+[2025-02-19 11:13:36:195] [KH] Kim Khánh HQC_TPH_SM_HKC  0332446251: Ụa màn hình bên m còn nhiều k
+[2025-02-19 11:14:13:046] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: nhìu m ơi
+[2025-02-19 11:14:15:794] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: yên tâm kk
+[2025-02-19 11:14:22:407] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: ko có á m
+[2025-02-19 11:14:38:809] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: hỏi thăm m thửu có du lịch gì hem kk
+[2025-02-19 11:14:49:273] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: ủa năm ngoái đồ có đi ko
+[2025-02-19 11:20:03:831] [KH] Kim Khánh HQC_TPH_SM_HKC  0332446251: T chưa vô
+[2025-02-19 11:20:15:027] [KH] Kim Khánh HQC_TPH_SM_HKC  0332446251: Mà nghe thoáng thoáng năm có năm không hay sao á
+[2025-02-19 11:20:15:993] [KH] Kim Khánh HQC_TPH_SM_HKC  0332446251: Kk
+[2025-02-19 11:20:24:130] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: ủa t tưởng m dô 2 năm rr chớ
+[2025-02-19 11:20:31:919] [KH] Kim Khánh HQC_TPH_SM_HKC  0332446251: Mới à chừi ưi kk
+[2025-02-19 11:20:53:010] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: {"catId":0,"id":1,"type":7}
+
+ Màn hình máy tính Dell E2423H 23.8" Full HD
+LED, 1920x1080, VGA, Display Port, 03 Years
+Màn hình máy tính Dell E2423H 23.8" Full HD LED, 1920x1080, VGA, Display Port, 03 Years.	 2,400,000
+======
+[7640478982534896560_[KH] Ms.Hằng MTR_DNG_SR_NUOCVIET]
+[2025-02-19 11:00:34:048] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: chị Hằng ơi
+[2025-02-19 11:00:42:774] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: chị pc chưa chốt được hả chị
+[2025-02-19 11:03:51:587] [KH] Ms.Hằng MTR_DNG_SR_NUOCVIET: Chua e
+[2025-02-19 11:03:59:709] [KH] Ms.Hằng MTR_DNG_SR_NUOCVIET: Ho hoi xong cái chua tra lo
+[2025-02-19 11:13:35:481] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: dạ bữa h em cũng đợi chị Hằng phản hồi mà chưa thấy luôn nên em hỏi thăm
+[2025-02-19 11:13:51:802] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: có j khách báo vướng j cứ báo em nhen
+[2025-02-19 11:14:23:811] [KH] Ms.Hằng MTR_DNG_SR_NUOCVIET: Uh
+[2025-02-19 11:14:26:413] [KH] Ms.Hằng MTR_DNG_SR_NUOCVIET: C ko bán lẻ
+[2025-02-19 11:15:16:734] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: dạ chị cũng bán sỉ như bên em mà hen
+[2025-02-19 11:15:22:402] [KH] Ms.Hằng MTR_DNG_SR_NUOCVIET: Ko
+[2025-02-19 11:15:24:890] [KH] Ms.Hằng MTR_DNG_SR_NUOCVIET: C lam dự án
+[2025-02-19 11:15:31:451] [KH] Ms.Hằng MTR_DNG_SR_NUOCVIET: Ko sỉ ko lẻ e ưi
+======
+[4892678954490190942_[KH] Mr.Hiền MDO_BDU_SM_PHATLOI]
+[2025-02-19 11:04:05:663] [KH] Mr.Hiền MDO_BDU_SM_PHATLOI: Bộ lưu điện UPS APC Smart-UPS SRT8KXLI 8000VA 230V con này báo giá tốt tốt luôn nha
+[2025-02-19 11:04:05:983] [KH] Mr.Hiền MDO_BDU_SM_PHATLOI: có làm này ko
+[2025-02-19 11:04:15:345] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: này anh Phúc làm anh
+======
+[611226804802783939_[KH] Mr.Đức HQS_Q03_GP_DMC  0918503886]
+[2025-02-19 11:02:03:767] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: anh ơi đơn pc chưa lấy dược luôn hả anh
+[2025-02-19 11:02:18:281] [KH] Mr.Đức HQS_Q03_GP_DMC  0918503886: chắc chuẩn bị
+[2025-02-19 11:02:31:156] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: tầm tuần này luôn hem anh
+======
+[4378951117262127229_[KH] 18.  NDKS 20  Ms. Hằng biến hình PC_NK]
+[2025-02-19 10:38:55:262] [KH] 18.  NDKS 20  Ms. Hằng biến hình PC_NK: {"thumb":"https://f11-zpc.zdn.vn/jpg/140084813925162074/721aa2c5d2f56cab35e4.jpg","description":"","action":"","childnumber":0,"href":"https://f11-zpc.zdn.vn/jpg/140084813925162074/721aa2c5d2f56cab35e4.jpg","title":"","params":"{\"width\":859,\"height\":1908,\"is_group_layout\":0,\"contentId\":\"1000007259\",\"convertible\":\"jxl\"}","type":""}
+[2025-02-19 10:39:26:992] [KH] 18.  NDKS 20  Ms. Hằng biến hình PC_NK: {"thumb":"","description":"Cuộc gọi","action":"recommened.calltime","childnumber":0,"href":"","title":"sendBubbleMessage","params":"{\"duration\":66,\"isCaller\":0,\"isEnableCallback\":1,\"calltype\":0}"}
+[2025-02-19 10:42:24:155] [KH] 18.  NDKS 20  Ms. Hằng biến hình PC_NK: {"thumb":"https://f17-zpc.zdn.vn/jpg/4348971627176305827/760e1a5d5a6de433bd7c.jpg","description":"","action":"","childnumber":0,"href":"https://f17-zpc.zdn.vn/jpg/4348971627176305827/760e1a5d5a6de433bd7c.jpg","title":"","params":"{\"width\":1080,\"height\":2400,\"hd\":\"https:\\/\\/f17-zpc.zdn.vn\\/jpg\\/4348971627176305827\\/760e1a5d5a6de433bd7c.jpg\",\"is_group_layout\":0,\"contentId\":\"\",\"convertible\":\"jxl\"}","type":""}
+[2025-02-19 10:42:43:127] [KH] 18.  NDKS 20  Ms. Hằng biến hình PC_NK: Xuất du.f
+[2025-02-19 10:42:59:670] [KH] 18.  NDKS 20  Ms. Hằng biến hình PC_NK: Xuất dùm chị luôn nhé
+[2025-02-19 10:43:26:762] [KH] 18.  NDKS 20  Ms. Hằng biến hình PC_NK: {"thumb":"https://f5-zpc.zdn.vn/jpg/2168807539297279076/2a75e021bb11054f5c00.jpg","description":"","action":"","childnumber":0,"href":"https://f5-zpc.zdn.vn/jpg/2168807539297279076/2a75e021bb11054f5c00.jpg","title":"","params":"{\"rawUrl\":\"https:\\/\\/f5-zpc.zdn.vn\\/jpg\\/2168807539297279076\\/2a75e021bb11054f5c00.jpg\",\"width\":536,\"convertible\":\"jxl\",\"hd\":\"https:\\/\\/f5-zpc.zdn.vn\\/jpg\\/2168807539297279076\\/2a75e021bb11054f5c00.jpg\",\"hdSize\":99138,\"height\":498}","type":""}
+[2025-02-19 10:46:19:952] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: rr nhen
+[2025-02-19 10:48:26:583] [KH] 18.  NDKS 20  Ms. Hằng biến hình PC_NK: Uki
+======
+[6904820937023878250_[KH] Minh Thảo  HQS_Q03_SM_CHANCHINH]
+[2025-02-19 10:20:32:610] [KH] Minh Thảo  HQS_Q03_SM_CHANCHINH: em Ngọc
+[2025-02-19 10:20:49:843] [KH] Minh Thảo  HQS_Q03_SM_CHANCHINH: giảm giá hết mức dùm chị đi, 3 cái
+[2025-02-19 10:23:06:314] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: chốt luôn hôm nay hem chị gái
+[2025-02-19 10:26:18:160] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: {"thumb":"","description":"Cuộc gọi","action":"recommened.calltime","childnumber":0,"href":"","title":"sendBubbleMessage","params":"{\"duration\":46,\"isCaller\":1,\"isEnableCallback\":1,\"calltype\":0}"}
+[2025-02-19 10:35:37:358] [KH] Minh Thảo  HQS_Q03_SM_CHANCHINH: Ram bên Phúc báo chị cuối tuần sau mới có
+[2025-02-19 10:35:49:763] [KH] Minh Thảo  HQS_Q03_SM_CHANCHINH: nên em chuẩn bị máy cho chị thôi
+[2025-02-19 10:36:08:175] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: yep chị gái mà cái này khi nào chị lấy á
+[2025-02-19 10:36:10:784] [KH] Minh Thảo  HQS_Q03_SM_CHANCHINH: chị xong thủ tục nội bộ Yến sẽ nhắn em nhập hàng nha cưng
+[2025-02-19 10:36:11:626] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: nay luôn hen
+[2025-02-19 10:36:21:681] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: then kiù chị gái kk
+======
+[5903310924472894548_[KH] NKDS 29 A.Phúc LK]
+[2025-02-19 10:27:29:692] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: Máy tính để bàn Dell OptiPlex Tower 7020, i5-12500, 8GB DDR5, 512GB SSD, Intel UHD Graphics 770,  USB Keyboard & Mouse, Win 11 Home, 01Year	 13,300,000
+[2025-02-19 10:27:36:463] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: báo giá ram 8gb gắn pc giúp em
+[2025-02-19 10:27:43:995] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: {"thumb":"https://s120.avatar.talk.zdn.vn/1/5/4/0/3/120/cf05a36a0bbf122792d56654845644fe.jpg","description":"{\"qrCodeUrl\":\"https:\\/\\/qr-talk.zdn.vn\\/2\\/431359767\\/419e271b3359da078348.jpg\"}","action":"recommened.user","childnumber":0,"href":"www.zaloapp.com","title":"Minh Thảo","params":"6904820937023878250","type":""}
+[2025-02-19 10:27:52:113] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: chị Thảo chân chính nha anh
+[2025-02-19 10:29:08:577] [KH] NKDS 29 A.Phúc LK: a đã báo nha e
+[2025-02-19 10:32:04:742] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: dạ anh
+======
+[276841495429098863_[KH] Mr.Thanh MDO_KHO_SM_THNHATRANG_ Mr.Đ]
+[2025-02-19 09:37:21:297] [KH] Mr.Thanh MDO_KHO_SM_THNHATRANG_ Mr.Đ: DELL OptiPlex 7020 SFF (S7020-14500-16512W)?
+[2025-02-19 09:38:47:231] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: Máy tính để bàn Dell Optilex 7020SFF  Intel Core i5-14500 vPro (14 Cores/24MB/20Threads/ Up to 5.0GHz/65W), 8Gb DDR5, 512SSD, UHD Graphics, Win11, No DVD, No Wifi, Key KB216, Mouse MS116, 180W Suply, 01Year, Prosupport  S7020-14500-08512W	 15,200,000
+[2025-02-19 09:39:01:355] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: em có mã này anh gắn thêm ram 8gb giúp em nhé
+[2025-02-19 09:54:17:079] [KH] Mr.Thanh MDO_KHO_SM_THNHATRANG_ Mr.Đ: DELL E2425H?
+[2025-02-19 09:56:25:015] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: Màn hình máy tính Dell E2423H 23.8" Full HD LED, 1920x1080, VGA, Display Port, 03 Years.	 2,400,000
+[2025-02-19 09:56:25:015] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: Màn hình máy tính Dell E2423H 23.8" Full HD LED, 1920x1080, VGA, Display Port, 03 Years.	 2,400,000
+
+em có dòng 23h á anh
+[2025-02-19 09:56:29:455] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: 25 em ch có hàng ạ
+
+em có dòng 23h á anh
+======
+[848369345327445118_[KH] Mr.Trung HQS_Q12_DI_ACT]
+[2025-02-19 09:53:41:705] [KH] Mr.Trung HQS_Q12_DI_ACT: {"catId":10398,"id":23037,"type":7}
+[2025-02-19 09:53:43:370] [KH] Mr.Trung HQS_Q12_DI_ACT: Workstation Dell Precision T3680 Tower (i7-14700/16G DDR5/500GSSD samsung gen 4x4 + 2THDD/T400 4G/Ubuntu) (42PT3680D03)
+[2025-02-19 09:53:43:370] [KH] Mr.Trung HQS_Q12_DI_ACT: Workstation Dell Precision T3680 Tower (i7-14700/16G DDR5/500GSSD samsung gen 4x4 + 2THDD/T400 4G/Ubuntu) (42PT3680D03)
+kèm theo một bản Windows 11 Professinal 64bit
+
+Màn hình dell E2723H
+[2025-02-19 09:53:45:756] [KH] Mr.Trung HQS_Q12_DI_ACT: Giá đi em
+[2025-02-19 09:54:39:743] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: Máy tính trạm Dell Precision 3680 Tower, i7-14700, 16GB, 256GB SSD, 4TB HDD, NVIDIA T400 4GB, KB, M, 300W PSU, Ubuntu, 3Y WTY	 36,380,000
+[2025-02-19 09:54:39:743] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: Máy tính trạm Dell Precision 3680 Tower, i7-14700, 16GB, 256GB SSD, 4TB HDD, NVIDIA T400 4GB, KB, M, 300W PSU, Ubuntu, 3Y WTY	 36,380,000
+
+Màn hình máy tính Dell E2723H 27" Full HD LED 1920x1080, 60Hz, 16.7M Color, 16:9,  DisplayPort, VGA, 03 Years.	 3,320,000
+[2025-02-19 09:54:58:157] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: em có cấu hình này anh gắn thêm ram giúp e
+kèm theo một bản Windows 11 Professinal 64bit
+
+Màn hình dell E2723H
+Màn hình máy tính Dell E2723H 27" Full HD LED 1920x1080, 60Hz, 16.7M Color, 16:9,  DisplayPort, VGA, 03 Years.	 3,320,000
+======
+[5505588938708210399_[KH] 11. Ngọc Thắm Nguyên Kim Printer]
+[2025-02-19 09:47:16:699] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: chị NKDS bn á
+[2025-02-19 09:47:22:423] [KH] 11. Ngọc Thắm Nguyên Kim Printer: 11 nè em
+[2025-02-19 09:47:31:574] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: âu cơ chị
+======
+[8455898018650248673_[KH] 06. Ms.Kim Ngân  Máy In Mực In_NK]
+[2025-02-19 09:31:02:341] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: đi chị
+[2025-02-19 09:31:27:687] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: alo
+[2025-02-19 09:40:16:741] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: đi hem chị
+[2025-02-19 09:40:23:947] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: ko đi được báo em nhen
+[2025-02-19 09:41:15:867] [KH] 06. Ms.Kim Ngân  Máy In Mực In_NK: ko nay c C off
+[2025-02-19 09:41:21:907] [KH] 06. Ms.Kim Ngân  Máy In Mực In_NK: canh 2 máy r
+[2025-02-19 09:41:42:960] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: z ko đi được hen chị
+[2025-02-19 09:41:59:675] [KH] 06. Ms.Kim Ngân  Máy In Mực In_NK: uk
+[2025-02-19 09:42:05:498] [KH] 06. Ms.Kim Ngân  Máy In Mực In_NK: mai mốt gì đi
+[2025-02-19 09:42:22:321] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: cá nhân á
+======
+[1419932411155308044_[KH] Cloud của tôi]
+[2025-02-19 09:38:26:881] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: {"thumb":"","description":"","action":"","childnumber":0,"href":"https://ot47.dlfl.me/680aa8dc179eb6c0ef8f/4438145897736293235","title":"BBG ngày 19.8.2024.xlsx","params":"{\"fileSize\":\"499311\", \"checksum\":\"13edd3bbc1f417313d318e7c6ed8d51d\", \"checksumSha\":\"null\", \"fileExt\":\"xlsx\", \"fdata\":\"{}\", \"fType\":1}","type":""}
+======
+[4315206363345035354_[KH] Mr.Thuận HQC_BTH_SM_TRONGTIN]
+[2025-02-19 15:56:24:372] [KH] Mr.Thuận HQC_BTH_SM_TRONGTIN: {"thumb":"https://f25-zpc.zdn.vn/jpg/5719589024651663593/b342ce3c4900f75eae11.jpg","description":"","action":"","childnumber":0,"href":"https://f25-zpc.zdn.vn/jpg/5719589024651663593/b342ce3c4900f75eae11.jpg","title":"","params":"{\"height\":2778,\"thumb_width\":360,\"thumb_height\":778,\"tracking\":{\"subsource\":\"0\",\"source\":0},\"hd\":\"https:\\/\\/f25-zpc.zdn.vn\\/jpg\\/5719589024651663593\\/b342ce3c4900f75eae11.jpg\",\"width\":1284,\"convertible\":\"jxl\"}","type":""}
+[2025-02-19 15:56:39:102] [KH] Mr.Thuận HQC_BTH_SM_TRONGTIN: lấy a 1 bản này nhé
+[2025-02-19 15:56:48:513] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: "Microsoft 365 Family AllLng Sub PK Lic 1YR Online APAC EM C2R NR (6GQ-00083)
+( sản phẩm dành cho người dùng cá nhân )"	1,750,000
+[2025-02-19 15:56:50:717] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: em gửui
+[2025-02-19 15:56:58:397] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: nay nhập lô mới
+[2025-02-19 15:57:03:199] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: giá tăng rr nha anh
+[2025-02-19 15:57:11:665] [KH] Mr.Thuận HQC_BTH_SM_TRONGTIN: {"thumb":"","description":"Cuộc gọi","action":"recommened.calltime","childnumber":0,"href":"","title":"sendBubbleMessage","params":"{\"duration\":100,\"isCaller\":0,\"isEnableCallback\":1,\"calltype\":0}"}
+[2025-02-19 16:01:04:260] [KH] Mr.Thuận HQC_BTH_SM_TRONGTIN: key gửi qua zalo giúp Anh luôn nhé
+======
+[4107056327028096583_[KH] Mr.Vũ HQC_TBI_TB_CDC  0938898328]
+[2025-02-19 15:49:58:689] [KH] Mr.Vũ HQC_TBI_TB_CDC  0938898328: {"thumb":"https://f19-zpc.zdn.vn/jpg/4522804394427282278/70345d050a39b467ed28.jpg","description":"","action":"","childnumber":0,"href":"https://f19-zpc.zdn.vn/jpg/4522804394427282278/70345d050a39b467ed28.jpg","title":"Sl 03c\n","params":"{\"width\":1551,\"convertible\":\"jxl\",\"hd\":\"https:\\/\\/f19-zpc.zdn.vn\\/jpg\\/4522804394427282278\\/70345d050a39b467ed28.jpg\",\"hdSize\":128430,\"height\":639}","type":""}
+[2025-02-19 15:50:28:515] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: Màn hình máy tính Dell U2424HE 23.8" Full HD LED 1920x1080 IPS 120Hz, 2xDP 1.4 (In-Out) With MST , 1xHDMI 1.4, 1xRJ45 port, 3xUSB Type C (video + data + charging 15W), 4xUSB 10Gpbs, 1xaudio line out port ,03 Year. (Tính năng kết nối 2 PC vào 1 màn hình)	 6,500,000
+[2025-02-19 15:50:32:542] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: em có he á
+[2025-02-19 15:50:38:185] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: chứ E ko em ko có rr
+[2025-02-19 15:50:54:476] [KH] Mr.Vũ HQC_TBI_TB_CDC  0938898328: màu bạc giống vậy ko em ?
+[2025-02-19 15:53:05:687] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: {"thumb":"https://f18-zpc.zdn.vn/jpg/934048478626221040/f48fd9ec6fd0d18e88c1.jpg","description":"","action":"","childnumber":0,"href":"https://f18-zpc.zdn.vn/jpg/934048478626221040/f48fd9ec6fd0d18e88c1.jpg","title":"","params":"{\"rawUrl\":\"https:\\/\\/f18-zpc.zdn.vn\\/jpg\\/934048478626221040\\/f48fd9ec6fd0d18e88c1.jpg\",\"width\":1209,\"convertible\":\"jxl\",\"hd\":\"https:\\/\\/f18-zpc.zdn.vn\\/jpg\\/934048478626221040\\/f48fd9ec6fd0d18e88c1.jpg\",\"hdSize\":47430,\"height\":425}","type":""}
+[2025-02-19 15:53:10:525] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: như này á anh Vuc
+======
+[4572485849691042508_[KH] Ms.Yến HQS_Q03_SM_CHANCHINH]
+[2025-02-19 15:39:05:990] [KH] Ms.Yến HQS_Q03_SM_CHANCHINH: Máy tính để bàn Dell OptiPlex Tower 7020, i5-12500, 8GB DDR5, 512GB SSD, Intel UHD Graphics 770,  USB Keyboard & Mouse, Win 11 Home, 01Year
+[2025-02-19 15:39:07:685] [KH] Ms.Yến HQS_Q03_SM_CHANCHINH: 3 bộ
+[2025-02-19 15:39:10:808] [KH] Ms.Yến HQS_Q03_SM_CHANCHINH: báo giá dùm chị
+[2025-02-19 15:39:47:605] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: Máy tính để bàn Dell OptiPlex Tower 7020, i5-12500, 8GB DDR5, 512GB SSD, Intel UHD Graphics 770,  USB Keyboard & Mouse, Win 11 Home, 01Year	 13,300,000
+[2025-02-19 15:39:51:260] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: em gửi
+[2025-02-19 15:39:56:621] [KH] Ms.Yến HQS_Q03_SM_CHANCHINH: ủa cao zị N
+[2025-02-19 15:39:57:892] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: mạnh dạn giảm 200k luôn
+[2025-02-19 15:40:04:212] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: còn 13tr100
+[2025-02-19 15:40:05:960] [KH] Ms.Yến HQS_Q03_SM_CHANCHINH: èo e giảm cho chị Thảo rồi chứ gì
+[2025-02-19 15:40:08:549] [KH] Ms.Yến HQS_Q03_SM_CHANCHINH: còn bảo mạnh dạng
+[2025-02-19 15:40:36:702] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: èo gặp chị Yến mạnh dạng giảm á kk
+[2025-02-19 15:40:45:446] [KH] Ms.Yến HQS_Q03_SM_CHANCHINH: có đâu á, giá này chị Thảo note rồi mà
+[2025-02-19 15:41:06:756] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: nói chứ nãy chị Thảo hỏi giá giảm em giảm hết cỡ ròi nà
+[2025-02-19 15:41:20:320] [KH] Ms.Yến HQS_Q03_SM_CHANCHINH: thì đó
+[2025-02-19 15:41:25:588] [KH] Ms.Yến HQS_Q03_SM_CHANCHINH: xuất giao chị 3 bộ nhé
+[2025-02-19 15:41:26:044] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: bên công ty chị Yến giảm được nhiêu là giảm hết hehe
+[2025-02-19 15:41:32:364] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: âu cơ chị iu
+[2025-02-19 15:41:41:807] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: có làm cocq j báo em luôn nhen
+[2025-02-19 15:48:10:080] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: {"thumb":"https://f24-zpc.zdn.vn/jpg/4906909113827577312/1844421fee23507d0932.jpg","description":"","action":"","childnumber":0,"href":"https://f24-zpc.zdn.vn/jpg/4906909113827577312/1844421fee23507d0932.jpg","title":"","params":"{\"rawUrl\":\"https:\\/\\/f24-zpc.zdn.vn\\/jpg\\/4906909113827577312\\/1844421fee23507d0932.jpg\",\"width\":533,\"convertible\":\"jxl\",\"hd\":\"https:\\/\\/f24-zpc.zdn.vn\\/jpg\\/4906909113827577312\\/1844421fee23507d0932.jpg\",\"hdSize\":93401,\"height\":594}","type":""}
+[2025-02-19 15:48:15:940] [KD] PC NGỌC. TRƯƠNG THỊ BÍCH 0901344769: em gửi phiếu chị luôn nhen
