@@ -13,7 +13,7 @@ for label in labels:
     ner.add_label(label)
 
 # Đọc dữ liệu huấn luyện
-with open("../data/train_data.json", "r", encoding="utf-8") as f:
+with open("../data/trains_data.json", "r", encoding="utf-8") as f:
     TRAIN_DATA = json.load(f)
 
 # Chuyển đổi dữ liệu huấn luyện
